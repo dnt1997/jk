@@ -25,6 +25,7 @@
     </div>
     @include('layouts.header')
     @yield('content')
+    @include('layouts.footer')
     <!--========= Scripts ===========-->
     <script src="js/jquery-latest.min.js"></script>
     <script src="js/bootstrap.js"></script>

@@ -320,7 +320,7 @@
                             </li>
                             <li><a href="#">Events</a>
                             </li>
-                            <li><a href="#">Profile</a>
+                            <li><a href="#">Quarantine Rules</a>
                             </li>
                             <li><a href="#">Contact us</a>
                             </li>
